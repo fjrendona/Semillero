@@ -1,0 +1,47 @@
+**********GIT****************************************
+
+--Iniciar proyecto de Git
+
+git init
+
+--Validar status git
+git status
+
+-- Subir cambios en la plataforma
+
+git commit -m "Comentarios"
+
+--Conectar a un servidor 
+
+ssh user@direccionIP -p 22
+
+****LINUX********************************************
+
+--Comando para crear un archivo
+touch (nombre del archivo a crear)
+
+--Comando para cambiar nombre de un archivo
+mv (nombre de archivo actual) (nuevo nombre de archivo)
+
+--Comando para devolverse a la ultima ruta donde se estuvo trabajando
+
+cd-
+
+--Comando para visualizar directorio actual
+
+pwd
+
+
+Servidores WEB y de Apps
+-Apache
+-Tomcat
+-IIS
+-Jboss
+-GlassFish
+-Nginx
+
+NPM (Node Platform Management)
+
+
+
+
