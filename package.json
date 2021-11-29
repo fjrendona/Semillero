@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/fjrendona/Semillero/issues"
   },
-  "homepage": "https://github.com/fjrendona/Semillero#readme"
+  "homepage": "https://github.com/fjrendona/Semillero#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "express": "^4.17.1"
+  }
 }
