@@ -31,6 +31,14 @@ cd-
 
 pwd
 
+--Comando para agregar a un origen
+git remote add origin https://github.com/fjrendona/Semillero.git (Enlace de Github)
+
+--Comando para subir los archivos
+git push origin main
+git pull origin main 
+git pull origin main --allow-unrelated-histories (En caso de error en Merge)
+
 
 Servidores WEB y de Apps
 -Apache

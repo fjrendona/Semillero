@@ -1,0 +1,19 @@
+{
+  "name": "semillero",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r #Comentario\r =======\r # Semillero\r Semillero Nuevas Tecnologias\r >>>>>>> 5748b088cc7ec4f35059d4ec9523ab6bcde2483a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjrendona/Semillero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjrendona/Semillero/issues"
+  },
+  "homepage": "https://github.com/fjrendona/Semillero#readme"
+}
